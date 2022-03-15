@@ -40,3 +40,4 @@ sns.set_style("whitegrid")
 sns.pairplot(iris, hue="class", size=3)
 plt.show()
 
+
